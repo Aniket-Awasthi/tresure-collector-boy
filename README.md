@@ -1,0 +1,2 @@
+# tresure-collector-boy
+game
